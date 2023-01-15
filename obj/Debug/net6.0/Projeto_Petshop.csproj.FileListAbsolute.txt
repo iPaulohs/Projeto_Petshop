@@ -1,0 +1,15 @@
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\bin\Debug\net6.0\Projeto_Petshop.exe
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\bin\Debug\net6.0\Projeto_Petshop.deps.json
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\bin\Debug\net6.0\Projeto_Petshop.runtimeconfig.json
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\bin\Debug\net6.0\Projeto_Petshop.dll
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\bin\Debug\net6.0\Projeto_Petshop.pdb
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\Projeto_Petshop.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\Projeto_Petshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\Projeto_Petshop.AssemblyInfoInputs.cache
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\Projeto_Petshop.AssemblyInfo.cs
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\Projeto_Petshop.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\Projeto_Petshop.dll
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\refint\Projeto_Petshop.dll
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\Projeto_Petshop.pdb
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\Projeto_Petshop.genruntimeconfig.cache
+C:\Users\paulo\source\repos\Projeto_Petshop\Projeto_Petshop\obj\Debug\net6.0\ref\Projeto_Petshop.dll
