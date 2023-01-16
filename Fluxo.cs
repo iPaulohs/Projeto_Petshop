@@ -14,20 +14,18 @@ namespace Projeto_Petshop
         {
             Console.WriteLine("Digite a opção desejada: ");
             Console.WriteLine("1 - Cadastrar pessoa");
-            Console.WriteLine("2 - Procurar pesssoa");
-            Console.WriteLine("3 - Aniversariantes do mês");
+            Console.WriteLine("2 - Procurar por CPF");
+            Console.WriteLine("3 - Listas pessoas");
             Console.WriteLine("4 - Procurar por CPF");
             opcaoNumero = int.Parse(Console.ReadLine());
             if(opcaoNumero < 1 || opcaoNumero > 4) 
             {
                 Console.WriteLine("Digite uma opção válida.");
-                Console.Clear();
                 opcao();
                 return 0;
             }
             else
             {
-                Console.Clear();
                 fluxo();
                 return opcaoNumero;
             }
@@ -37,7 +35,7 @@ namespace Projeto_Petshop
             switch (opcaoNumero)
             {
                 case 1:
-                    cadastro.gravaPessoa();
+                    cadastro.GravaPessoa();
                     opcao();
                     break;
                 case 2:
@@ -45,7 +43,8 @@ namespace Projeto_Petshop
                     opcao();
                     break;
                 case 3:
-                    //Aniversariantes do mês
+                    cadastro.ListaPessoas();
+                    opcao();
                     break;
                 case 4:
                     //Procurar por CPF
