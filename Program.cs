@@ -8,7 +8,6 @@
 
             Fluxo fluxo = new Fluxo();
             fluxo.opcao();
-
         }
     }
 }
