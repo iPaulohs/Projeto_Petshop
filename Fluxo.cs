@@ -14,9 +14,9 @@ namespace Projeto_Petshop
         {
             Console.WriteLine("Digite a opção desejada: ");
             Console.WriteLine("1 - Cadastrar pessoa");
-            Console.WriteLine("2 - Procurar por CPF");
-            Console.WriteLine("3 - Listas pessoas");
-            //Console.WriteLine("4 - Aniversariantes do mês");
+            Console.WriteLine("2 - Procurar pesssoa");
+            Console.WriteLine("3 - Aniversariantes do mês");
+            Console.WriteLine("4 - Procurar por CPF");
             opcaoNumero = int.Parse(Console.ReadLine());
             if(opcaoNumero < 1 || opcaoNumero > 4) 
             {
