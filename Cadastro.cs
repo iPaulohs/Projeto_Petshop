@@ -12,7 +12,11 @@ namespace Projeto_Petshop
         Pessoa pessoa;
         static DateTime Nascimento = new DateTime();
         List<Pessoa> persons = new List<Pessoa>();
-        StreamWriter db_Pessoas = new StreamWriter("C:\\Users\\paulo\\source\\repos\\Projeto_Petshop\\Projeto_Petshop\\Dados\\DB_PessoasEntrada.txt", true, Encoding.ASCII);
+        StreamWriter db_Pessoas = new StreamWriter("C:\\Users\\paulo\\source\\repos\\Projeto_Petshop\\DB_PessoasEntrada.txt", true, Encoding.ASCII);
+<<<<<<<<< Temporary merge branch 1
+
+=========
+>>>>>>>>> Temporary merge branch 2
 
         public string registraNome()
         {
